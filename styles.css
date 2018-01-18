@@ -141,7 +141,12 @@ p {
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
   text-align: center;
+
 }
+#about a{
+  text-decoration: none;
+}
+
 #about h2 {
   font-family: 'Orbitron', sans-serif;
   font-size: 40px;
@@ -221,6 +226,7 @@ p {
 \*------------------------------------*/
 footer {
   text-align: center;
+  margin-top: 40px;
   margin: 20px;
 }
 
@@ -256,4 +262,8 @@ footer h3 {
     float: none;
     margin-right: 20px;
   }
+}
+
+.card{
+  margin: 15px;
 }
