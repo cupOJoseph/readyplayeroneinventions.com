@@ -267,3 +267,8 @@ footer h3 {
 .card{
   margin: 15px;
 }
+
+.card img{
+  max-height: 600px;
+  max-width: 100%;
+}
