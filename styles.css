@@ -141,7 +141,7 @@ p {
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 #about a{
   text-decoration: none;
@@ -265,7 +265,8 @@ footer h3 {
 }
 
 .card{
-  margin: 15px;
+  margin: auto;
+  margin-bottom: 100px;
 }
 
 .card img{
